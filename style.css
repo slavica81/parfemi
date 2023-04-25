@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: smooth;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+.div-parfem{
+    border: 1px solid black;
+    padding: 40px;
+}
+.zenski{
+    color: white;
+
+    font-family: "Poppins";
+    background: linear-gradient(#C33764,#1D2671);
+}
+.text{
+    color: #ffffff;
+}
+
+.muski{
+    color: white;
+    font-family: "Poppins";
+    background: linear-gradient(#1D2671,#6be585);
+}
+.tag-a{
+    color: #000;
+    text-decoration: none;
+}
+.tag-a:hover{
+    color: silver;
+    text-decoration: none;
+}
+.icon-touch{
+    width: 30px;
+    height: 30px;
+    color:white;
+}
